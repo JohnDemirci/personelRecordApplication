@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/umit.demirci262/Downloads/lab3_personnel/src/list.c
+list.h
+/Users/umit.demirci262/Downloads/lab3_personnel/src/list.h
+
+/Users/umit.demirci262/Downloads/lab3_personnel/src/list.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/umit.demirci262/Downloads/lab3_personnel/src/person.c
+person.h
+/Users/umit.demirci262/Downloads/lab3_personnel/src/person.h
+
+/Users/umit.demirci262/Downloads/lab3_personnel/src/person.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+list.h
+/Users/umit.demirci262/Downloads/lab3_personnel/src/list.h
+
